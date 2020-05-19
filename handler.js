@@ -1,7 +1,7 @@
 const http = require('http');
 
 const Processor = require("./Processor");
-const Config = require("./Config");
+const Config = require("./cfg");
 
 module.exports = http.createServer(function (req, res) {
     res.write(Processor(req.url));
