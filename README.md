@@ -1,9 +1,9 @@
 # MioWS
 
-Requirements :
-1-) NodeJS Version 12.x
-2-) PHP SetUP
-3-) 100Mbit ethernet (powerful connection)
+Requirements :\
+1-) NodeJS Version 12.x\
+2-) PHP SetUP\
+3-) 100Mbit ethernet (powerful connection)\
 
 
 Setup:
